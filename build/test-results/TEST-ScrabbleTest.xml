@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScrabbleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-04-19T18:26:55" hostname="epicodus-50.local" time="0.003">
+  <properties/>
+  <testcase name="App_convertChar_Array" classname="ScrabbleTest" time="0.003"/>
+  <testcase name="App_acceptChar_Array" classname="ScrabbleTest" time="0.0"/>
+  <system-out><![CDATA[[3]
+[A]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
